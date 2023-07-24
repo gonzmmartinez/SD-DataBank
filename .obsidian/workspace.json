@@ -4,24 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "f89dd5b261dc0701",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "96a9bf0534714ec1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Estadística Inferencial/1. Distribuciones de probabilidad multivariantes.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "99fe6d404b3dacb4",
         "type": "tabs",
         "children": [
@@ -36,8 +18,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "42c856cdc671a59c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Estadística Inferencial/Distribuciones de probabilidad marginal y condicional.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -103,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Estadística Inferencial/1. Distribuciones de probabilidad multivariantes.md",
+                "file": "Estadística Inferencial/Distribuciones de probabilidad marginal y condicional.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Estadística Inferencial/1. Distribuciones de probabilidad multivariantes.md",
+                "file": "Estadística Inferencial/Distribuciones de probabilidad marginal y condicional.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Estadística Inferencial/1. Distribuciones de probabilidad multivariantes.md"
+                "file": "Estadística Inferencial/Distribuciones de probabilidad marginal y condicional.md"
               }
             }
           },
@@ -173,10 +168,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f38eac8c2ab40b14",
+  "active": "42c856cdc671a59c",
   "lastOpenFiles": [
-    "fig51.md",
     "Estadística Inferencial/1. Distribuciones de probabilidad multivariantes.md",
+    "Estadística Inferencial/Distribuciones de probabilidad marginal y condicional.md",
+    "fig51.md",
     "Estadística Inferencial/Anexo/screenshot064.png",
     "Estadística Inferencial/Anexo/screenshot063.png",
     "Estadística Inferencial/Anexo/screenshot062.png",
