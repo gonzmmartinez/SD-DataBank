@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a5aa7702cbb36712",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Estadística Inferencial/Distribuciones de probabilidad condicionales.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Estadística Inferencial/Distribuciones de probabilidad marginales.md",
+                "file": "Estadística Inferencial/Distribuciones de probabilidad condicionales.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Estadística Inferencial/Distribuciones de probabilidad marginales.md",
+                "file": "Estadística Inferencial/Distribuciones de probabilidad condicionales.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Estadística Inferencial/Distribuciones de probabilidad marginales.md"
+                "file": "Estadística Inferencial/Distribuciones de probabilidad condicionales.md"
               }
             }
           },
@@ -168,12 +180,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ac99ecf5f2bd2abe",
+  "active": "a5aa7702cbb36712",
   "lastOpenFiles": [
+    "Estadística Inferencial/Distribuciones de probabilidad marginales.md",
+    "Estadística Inferencial/Distribuciones de probabilidad condicionales.md",
     "Estadística Inferencial/Anexo/Pasted image 20230724160650.png",
     "Estadística Inferencial/Anexo/Pasted image 20230724155524.png",
     "Estadística Inferencial/1. Distribuciones de probabilidad multivariantes.md",
-    "Estadística Inferencial/Distribuciones de probabilidad marginales.md",
     "fig51.md",
     "Estadística Inferencial/Anexo/screenshot064.png",
     "Estadística Inferencial/Anexo/screenshot063.png",
@@ -183,7 +196,6 @@
     "Estadística Inferencial/Anexo/screenshot059.png",
     "Estadística Inferencial/Anexo/screenshot058.png",
     "Estadística Inferencial/Anexo/screenshot057.png",
-    "Estadística Inferencial/Anexo/screenshot056.png",
     "Estadística Inferencial/Anexo",
     "snippets/justified.css",
     "snippets/center.css",
