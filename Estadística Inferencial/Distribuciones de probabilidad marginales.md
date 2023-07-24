@@ -28,3 +28,11 @@ Debido a que hay 15 puntos muestrales igualmente probables; para el evento en cu
 Para hallar $p_1(y_1)$ debemos sumar los valores de $Y_2$, como indica la [definición de probabilidad marginal](#Definición%20de%20probabilidad%20marginal). Por tanto, estas probabilidades están dadas por los totales de columna de la tabla. Esto es, $$p_1(0) = p(0,0) + p(0,1) + p(0,2) = 0 + \frac{2}{15} + \frac{1}{15} = \frac{3}{15}$$
 Y del mismo modo, $$p_1(1) = \frac{9}{15} \qquad \text{y} \qquad p_1(2) = \frac{3}{15}$$
 En forma análoga, la función de probabilidad marginal de $Y_2$ está dada por los totales de fila.
+![](Pasted%20image%2020230724155524.png)
+
+---
+
+### Ejemplo
+
+Sea $$f(y_1,y_2) = \begin{cases} 2y_1 & 0 \le y_1 \le 1, 0 \le y_2 \le 1\\ 0 & \text{en cualquier otro caso} \end{cases}$$
+Grafique $f(y_1,y_2) y encuentre las funciones de densidad marginal para $Y_1$ y $Y_2$.
