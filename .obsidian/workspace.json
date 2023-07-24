@@ -13,7 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Distribuciones de probabilidad multivariantes.md",
+                "file": "Estadística Inferencial/1. Distribuciones de probabilidad multivariantes.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "99fe6d404b3dacb4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f38eac8c2ab40b14",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Estadística Inferencial/1. Distribuciones de probabilidad multivariantes.md",
                 "mode": "preview",
                 "source": true
               }
@@ -85,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Distribuciones de probabilidad multivariantes.md",
+                "file": "Estadística Inferencial/1. Distribuciones de probabilidad multivariantes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Distribuciones de probabilidad multivariantes.md",
+                "file": "Estadística Inferencial/1. Distribuciones de probabilidad multivariantes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Distribuciones de probabilidad multivariantes.md"
+                "file": "Estadística Inferencial/1. Distribuciones de probabilidad multivariantes.md"
               }
             }
           },
@@ -155,12 +173,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "96a9bf0534714ec1",
+  "active": "f38eac8c2ab40b14",
   "lastOpenFiles": [
+    "fig51.md",
+    "Estadística Inferencial/1. Distribuciones de probabilidad multivariantes.md",
+    "Estadística Inferencial/Anexo/screenshot064.png",
+    "Estadística Inferencial/Anexo/screenshot063.png",
+    "Estadística Inferencial/Anexo/screenshot062.png",
+    "Estadística Inferencial/Anexo/screenshot061.png",
+    "Estadística Inferencial/Anexo/screenshot060.png",
+    "Estadística Inferencial/Anexo/screenshot059.png",
+    "Estadística Inferencial/Anexo/screenshot058.png",
+    "Estadística Inferencial/Anexo/screenshot057.png",
+    "Estadística Inferencial/Anexo/screenshot056.png",
+    "Estadística Inferencial/Anexo/screenshot055.png",
+    "Estadística Inferencial/Anexo",
     "snippets/justified.css",
     "snippets/center.css",
     "snippets",
-    "Distribuciones de probabilidad multivariantes.md",
     "Estadística Inferencial",
     "README.md"
   ]
