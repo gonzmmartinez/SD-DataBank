@@ -8,11 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "881b78c9c3ca854d",
+            "id": "96a9bf0534714ec1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Distribuciones de probabilidad multivariantes.md",
+                "mode": "preview",
+                "source": true
+              }
             }
           }
         ]
@@ -65,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 326.5
   },
   "right": {
     "id": "74e57e316a077036",
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Distribuciones de probabilidad multivariantes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Distribuciones de probabilidad multivariantes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Distribuciones de probabilidad multivariantes.md"
+              }
             }
           },
           {
@@ -134,7 +142,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 428.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,8 +155,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "881b78c9c3ca854d",
+  "active": "96a9bf0534714ec1",
   "lastOpenFiles": [
+    "snippets/justified.css",
+    "snippets/center.css",
+    "snippets",
+    "Distribuciones de probabilidad multivariantes.md",
+    "Estadística Inferencial",
     "README.md"
   ]
 }
