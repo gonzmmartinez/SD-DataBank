@@ -22,4 +22,9 @@ El término **marginal**, como se aplica a las funciones de probabilidad univari
 De un grupo de tres republicanos, dos demócratas y uno independiente se ha de seleccionar aleatoriamente un comité de dos personas. Denote con $Y_1$ el número de republicanos y con $y_2$ el número de demócratas del comité. Encuentre la función de probabilidad conjunta de $Y_1$ y $Y_2$, luego encuentre la función de probabilidad marginal de $Y_1$.
 
 Las probabilidades buscadas aquí son semejantes a las probabilidades hipergeométricas. Por ejemplo:
-$$P(Y_1 = 1, Y_2 = 1) = p(1,1) = \frac{\binom31\binom21\binom10}{\binom6}$$
+$$P(Y_1 = 1, Y_2 = 1) = p(1,1) = \frac{\binom31\binom21\binom10}{\binom62} = \frac{3(2)}{15} = \frac{6}{15}$$
+Debido a que hay 15 puntos muestrales igualmente probables; para el evento en cuestión debemos seleccionar un republicano de entre los tres, un demócrata de entre los dos y cero independientes.
+
+Para hallar $p_1(y_1)$ debemos sumar los valores de $Y_2$, como indica la [definición de probabilidad marginal](#Definición%20de%20probabilidad%20marginal). Por tanto, estas probabilidades están dadas por los totales de columna de la tabla. Esto es, $$p_1(0) = p(0,0) + p(0,1) + p(0,2) = 0 + \frac{2}{15} + \frac{1}{15} = \frac{3}{15}$$
+Y del mismo modo, $$p_1(1) = \frac{9}{15} \qquad \text{y} \qquad p_1(2) = \frac{3}{15}$$
+En forma análoga, la función de probabilidad marginal de $Y_2$ está dada por los totales de fila.
