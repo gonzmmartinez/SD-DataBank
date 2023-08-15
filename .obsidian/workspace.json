@@ -8,11 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8706bc13b1c84c08",
+            "id": "eeda1f36d9db5651",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Análisis y Métodos Estadísticos/Series Temporales.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Análisis y Métodos Estadísticos/Series Temporales.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Análisis y Métodos Estadísticos/Series Temporales.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Análisis y Métodos Estadísticos/Series Temporales.md"
+              }
             }
           },
           {
@@ -147,8 +155,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8706bc13b1c84c08",
+  "active": "eeda1f36d9db5651",
   "lastOpenFiles": [
+    "Análisis y Métodos Estadísticos/Series Temporales.md",
+    "ANEXOS",
+    "Análisis y Métodos Estadísticos",
     "Estadística Inferencial/1. Distribuciones de probabilidad multivariantes.md",
     "Estadística Inferencial/Distribuciones de probabilidad marginales.md",
     "Estadística Inferencial/Distribuciones de probabilidad condicionales.md",
