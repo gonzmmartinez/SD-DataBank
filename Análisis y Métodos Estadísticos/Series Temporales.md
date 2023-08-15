@@ -8,6 +8,6 @@ $y_1, y_2, ..., y_n$; $(y_t)^{N}_{t=1}$; $(y_t : t =1, ..., N)$, donde $y_t$ es 
 
 ## Representaciones matemáticas frecuentes de series temporales multivariantes
 
-$y_1, y_2, ..., y_N$; $(y_t)^{N}_{t=1}$; $(y_t; t=1,...,N)$, donde $y_t \equiv [y_{t1}, y_{t2}, ..., y_{tM}]'$ $(M \ge 2)$ es la observación número $t$ $(1 \le t \le N)$ de la serie y $N$ es el número de observaciones de que consta la serie completa. Las $N$ observaciones $y_1, y_2, ..., y_N$ pueden recogerse en una matriz $\mathbf{Y}$ de orden $N \times M$.
+$y_1, y_2, ..., y_N$; $(y_t)^{N}_{t=1}$; $(y_t; t=1,...,N)$, donde $y_t \equiv [y_{t1}, y_{t2}, ..., y_{tM}]'$ $(M \ge 2)$ es la observación número $t$ $(1 \le t \le N)$ de la serie y $N$ es el número de observaciones de que consta la serie completa. Las $N$ observaciones $y_1, y_2, ..., y_N$ pueden recogerse en una matriz $\mathbf{Y}$ de orden $N \times M$, $$\mathbf{Y} \equiv \begin{bmatrix} y_1'\\ y_2'\\ \vdots\\ y_N' \end{bmatrix} \equiv \begin{bmatrix} y_{11} & y_{12} & \cdots & y_{1M}\\ y_{21} & y_{22} & \vdots  & y_{2M}\\ \vdots & \vdots & & \vdots\\ y_{N1} & y_{N2} & \cdots & y_{NM} \end{bmatrix}$$ donde $y_{ij}$ es la observación número $t$ $(1 \le t \le N)$ sobre la característica o variable número $j$ $(1 \le j \le M)$, que es la misma en todo momento $t$.
 
-$$\mathbf{Y} \equiv \begin{bmatrix} y_1'\\ y_ \end{bmatrix}$$
+![](Pasted%20image%2020230815101055.png)
